@@ -5,10 +5,8 @@ answer_A = ["A", "a"]
 answer_B = ["B", "b"]
 answer_C = ["C", "c"]
 answer_D = ["D", "d"]
-yes = ["Y", "y", "Yes", "yes"]
-no = ["N", "n", "No", "no"]
 
-required = ("\n Gebruik alleen A, B of C \n")
+required = ("\n Gebruik alleen A, B, C of D \n")
 
 
 def begin():
